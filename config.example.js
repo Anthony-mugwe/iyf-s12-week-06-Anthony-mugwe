@@ -1,3 +1,3 @@
-const CONFIG = {
-    API_KEY: "YOUR_API_KEY_HERE"
+window.WEATHER_CONFIG = {
+    API_KEY: "PASTE_YOUR_NEW_API_KEY_HERE"
 };
