@@ -1,4 +1,3 @@
-window.WEATHER_CONFIG =
-{
+window.WEATHER_CONFIG ={
   API_KEY: "YOUR_API_KEY_HERE"
 };
