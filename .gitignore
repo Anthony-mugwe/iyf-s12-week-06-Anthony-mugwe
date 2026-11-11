@@ -6,4 +6,5 @@ config.js
 Thumbs.db
 .vscode/
 node_modules/
+
 .env
