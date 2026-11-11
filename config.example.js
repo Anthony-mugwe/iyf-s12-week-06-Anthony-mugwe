@@ -1,4 +1,4 @@
 window.WEATHER_CONFIG =
 {
-  API_KEY: "API_KEY_HERE"
+  API_KEY: "YOUR_API_KEY_HERE"
 };
